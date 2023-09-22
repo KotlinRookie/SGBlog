@@ -31,3 +31,8 @@ mybatis-plus:
       logic-not-delete-value: 0
       # 主键自增策略，以mysql数据库为准
       id-type: auto
+
+oss:
+  accessKey: vmq-7tLwuavGRtiYZbmfV3VPMQmDtZKmxvV2EiXt
+  secretKey: 7GT_F6S73B5RZAq8t_yVvNXESgluNz9LK-L9O7ef
+  bucket: ccccc-blog
